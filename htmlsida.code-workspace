@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        },
+        {
+            "name": "rockbands",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "rockbands"
+    }
+}
